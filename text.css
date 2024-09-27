@@ -1,0 +1,84 @@
+
+/* Universal Styles */
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 30px;
+  
+}
+
+.yesterday {
+  font-size: 20px;
+}
+
+h2 {
+  margin-left: 150px;
+  clear: both;
+  
+}
+
+.newpaper-title {
+  
+  margin-left: 150;
+  
+}
+
+.banner {
+  margin: 100px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin: 50px;
+  margin-left: 150;
+}
+
+.first-article {
+  float: right;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  margin: 20px;
+  margin-right: 150px;
+}
+
+.hurricane {
+  float: left;
+  margin: 20px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  display: block;
+}
+
+.flood {
+  float: right;
+  margin: 20px;
+  margin-right: 150px;
+  width: 400px;
+  margin-bottom: 50px;
+}
+
+.second-article {
+  float: left;
+  font-size: 20px;
+  margin: 20px;
+  margin-left: 150px;
+}
+
+.house {
+  float: left;
+  margin: 20px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+  display: block;
+  width: 300px;
+}
+
+.coucil {
+  float: right;
+  margin: 20px;
+  margin-right: 150px;
+  width: 400px;
+  margin-bottom: 50px;
+}
